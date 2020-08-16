@@ -59,7 +59,7 @@ Now you will notice unlike javascript we are not leaving our curls on the end th
 
 ---
 ## Global Variables
-In javascript we would just declare these at the top of the file but in Java they need to live inside out class so that they can be used in it or accessed from outside the class through it.
+In javascript we would just declare these at the top of the file but in Java they need to live inside the class so that they can be used in it or accessed from outside the class through it.
 
 ### Private Variables
 Private variables are hidden from reference and can not be accessed by outside sources as opposed to public.
@@ -77,6 +77,17 @@ The main function is not a syntax case and needs to be declared as ```public sta
 
 ## Other Functions inside a class
 The main function is just that a function you can declare and write out other functions for the program to use any where **WITHIN** the class it was called. The only time you can call a function from another class in another file is when that file is within the same directory as the parent java file (aka the main function program)
+
+***
+
+# **_Setting Variables and properties_**
+Setting variables and declaring them is a bit different in Java than Javascript we need to make sure we choose what type that variable will be when we declare it. Note you can **NOT** change it later. So if I need a variable that holds a basic number that doesn't get to large I would use ```int number;```. Notice I don't delcare what the value of that variable is this is because we don't have to declare values when a variable is make in most memeory based languages.
+
+## Variables for out GUI
+When we are setting the Panel and Frame variables for our program we are taking those classes from the Java library to we need to delcare them as a JPanel variable that is a new JPanel().
+
+## Setting properties of Declared Class Variables
+We can change the properties of a class that call into a variable by just calling the function that is inherited from the parent so frame.setSize will allow us to set the size of our frame to what we want it.
 
 ***
 
