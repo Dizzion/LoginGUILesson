@@ -18,8 +18,7 @@ There is an install for both windows and macOS on that page for linix users you 
 * Set components to certain sections of the GUI with layout
 * Learn Action Listeners in Java
 * Learn to Check basic Login information using Java
-* Talk about Databases in Java
-* The difference between a cloud server with imaginary routers and physical server with routers
+* Talk about Databases in Java and the routes associated with them
 
 ***
 # **_Importing java dependencies_**
