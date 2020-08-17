@@ -11,7 +11,7 @@ There is an install for both windows and macOS on that page for linix users you 
 ### Once this is done go ahead and clone or (fork and clone) this repo, so we can code it together.
 
 ---
-## _~15min_
+## _~25min_
 
 ## **_In this lesson we will:_**
 * Import Events to so that we can make a gui from basic components
