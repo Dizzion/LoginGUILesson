@@ -5,8 +5,8 @@ We are going to make a Login GUI using the Java programing language. Since we ha
 
 ***
 ## **_3-5min_**
-In order for Everyone to get started and code along, if they want, we need to download the Java language Support here -> [Java](https://code.visualstudio.com/docs/languages/java).
-There is an install for both windows and macOS on that page for linix users you will need to download the JDK I suggest just following along but here -> [JDK](https://www.oracle.com/java/technologies/javase-downloads.html) is the JDK standalone installer.
+In order for Everyone to get started and code along, if they want, we need to download the Java language Support for VScode here -> [Java](https://code.visualstudio.com/docs/languages/java).
+There is an install for both windows and macOS on that page for linix users you will need to download the JDK I suggest just following along but here -> [JDK](https://www.oracle.com/java/technologies/javase-downloads.html) is the JDK standalone installer. This second step also follows for those that use other IDE's. For those looking for an IDE just for Java [Eclipse is the best out there.](https://www.eclipse.org/downloads/packages/)
 
 ### Once this is done go ahead and clone or (fork and clone) this repo, so we can code it together.
 
